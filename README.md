@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on ...  
-  My frontend portfolio
-
-##🌱 I’m currently learning ...  
+  My frontend portfolio  
+  
+## 🌱 I’m currently learning ...  
   Fronend techologies like HTML, CSS, JavaScript, TypeScript, React and Vue
 
 <!--
