@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 ## 🔭 I’m currently working on ...  
   My frontend portfolio  
   
-## 🌱 I’m currently learning ...  
-  Frontend techologies like HTML, CSS, JavaScript, TypeScript, React and Vue
+## 🌱 Tech Stack
+  ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
 
 <!--
 - 👯 I’m looking to collaborate on ...
