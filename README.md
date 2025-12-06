@@ -11,7 +11,7 @@ Here are some ideas to get you started:
   My frontend portfolio  
   
 ## 🌱 I’m currently learning ...  
-  Fronend techologies like HTML, CSS, JavaScript, TypeScript, React and Vue
+  Frontend techologies like HTML, CSS, JavaScript, TypeScript, React and Vue
 
 <!--
 - 👯 I’m looking to collaborate on ...
